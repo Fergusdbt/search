@@ -1,7 +1,6 @@
-# SEARCH: CS50w project 0
+# SEARCH
 #### Video Demo: https://youtu.be/XAa3JDhwMFo?si=nYTiI6lTwv9QpzJS
 #### Description: A front-end design for a web application replicating Google's various search engines 
-#### Command: python manage.py runserver
 
 This is a project submitted as part of Havard University's CS50w online course. 
 
